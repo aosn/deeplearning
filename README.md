@@ -1,6 +1,6 @@
 # 『深層学習』輪読会
 
-詳しくは読書会ウェブサイトをご覧ください → https://aosn.github.io/#!/workshop/2-deeplearning.md
+詳しくは読書会ウェブサイトをご覧ください → http://aosn.github.io/workshop/2-deeplearning/
 
 ## 対象書籍
 
